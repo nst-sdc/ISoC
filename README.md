@@ -44,7 +44,7 @@ Indian Summer of Code (ISoC) aims to connect talented students with open-source 
    - Select and mentor students throughout the program.  
    - Guide students to make impactful open-source contributions.
 
----
+----
 
 ## 🔗 Useful Links
 - [Official Website](#) *(Coming Soon)*
@@ -53,7 +53,7 @@ Indian Summer of Code (ISoC) aims to connect talented students with open-source 
 - [Mentorship Guidelines](#)
 - [Student Proposal Template](#)
 
----
+----
 
 ## 📢 Stay Connected
 Follow us on:  
