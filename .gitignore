@@ -1,0 +1,32 @@
+# Node modules
+node_modules/
+npm-debug.log
+yarn.lock
+package-lock.json
+
+# Build files
+dist/
+build/
+.cache/
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+
+# Logs
+*.log
+logs/
+debug.log
+
+# IDE and OS files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Next.js & Vite specific
+.next/
+out/
+.vite/
