@@ -12,19 +12,19 @@ export default function Home({ onStudentClick, onOrgClick }: HomeProps) {
   const { user } = useAuth();
 
   const handleStudentClick = () => {
-    if (user) {
+    // if (user) {
       navigate('/student/apply');
-    } else {
-      onStudentClick();
-    }
+    // } else {
+    //   onStudentClick();
+    // }
   };
 
   const handleOrgClick = () => {
-    if (user) {
+    // if (user) {
       navigate('/organization/register');
-    } else {
-      onOrgClick();
-    }
+    // } else {
+    //   onOrgClick();
+    // }
   };
 
   return (
